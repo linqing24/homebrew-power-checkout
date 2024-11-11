@@ -5,6 +5,7 @@ quickly switch to another branch
 ## install
 
 ```bash
+brew tap linqing24/power-checkout
 brew install power-checkout
 ```
 

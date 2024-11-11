@@ -7,6 +7,6 @@ class PowerCheckout < Formula
     version "1.0.0"
 
     def install
-        bin.install "pc"
+        bin.install "power-checkout"
     end
   end
